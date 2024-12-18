@@ -247,7 +247,7 @@ DRR["1f"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["1f"]["Selectable"] = false;
 DRR["1f"]["Size"] = UDim2.new(0.08402203768491745, 0, 0.4803149402141571, 0);
 DRR["1f"]["Name"] = [[TopBarClose]];
-DRR["1f"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["1f"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["1f"]["Text"] = [[]];
 DRR["1f"]["Position"] = UDim2.new(0.915977954864502, 0, 0.5196850299835205, 0);
 
@@ -263,7 +263,7 @@ DRR["21"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 -- DrRay.TopBar.TopBarClose.idk
 DRR["22"] = Instance.new("Frame", DRR["1f"]);
 DRR["22"]["BorderSizePixel"] = 0;
-DRR["22"]["BackgroundColor3"] = Color3.fromRGB(42, 42, 58);
+DRR["22"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["22"]["Size"] = UDim2.new(0.2622910141944885, 0, 1, 0);
 DRR["22"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["22"]["Position"] = UDim2.new(0.000002001152552111307, 0, 0, 0);
