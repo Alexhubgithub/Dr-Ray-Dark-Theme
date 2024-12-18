@@ -417,7 +417,7 @@ DRR["36"] = Instance.new("TextLabel", DRR["35"]);
 DRR["36"]["TextWrapped"] = true;
 DRR["36"]["BorderSizePixel"] = 0;
 DRR["36"]["TextScaled"] = true;
-DRR["36"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["36"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["36"]["FontFace"] = Font.new([[rbxassetid://11702779517]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 DRR["36"]["TextSize"] = 14;
 DRR["36"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -443,7 +443,7 @@ DRR["38"]["Color"] = ColorSequence.new{ColorSequenceKeypoint.new(0.000, Color3.f
 -- DrRay.Folder.TabButtonReserved.ImageLabel
 DRR["39"] = Instance.new("ImageLabel", DRR["33"]);
 DRR["39"]["BorderSizePixel"] = 0;
-DRR["39"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+DRR["39"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["39"]["Size"] = UDim2.new(0.19903095066547394, 0, 0.606557309627533, 0);
 DRR["39"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
 DRR["39"]["BackgroundTransparency"] = 1;
